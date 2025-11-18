@@ -1,0 +1,12 @@
+wc
+basin
+shower
+bathtub
+kitchen sink
+washing machine
+wardrobe
+ac indoor
+ac outdoor
+radiator
+underfloor restricted zone
+floor drain

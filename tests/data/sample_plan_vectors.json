@@ -1,0 +1,15 @@
+[
+  {
+    "page_number": 1,
+    "shapes": {
+      "rects": [
+        {"x0": 0, "x1": 500, "top": 0, "bottom": 300},
+        {"x0": 500, "x1": 900, "top": 0, "bottom": 300}
+      ]
+    },
+    "text_items": [
+      {"text": "Bedroom 1", "x0": 200, "x1": 300, "top": 120, "bottom": 200},
+      {"text": "Kitchen", "x0": 650, "x1": 750, "top": 120, "bottom": 200}
+    ]
+  }
+]

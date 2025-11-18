@@ -1,0 +1,17 @@
+path: data/mep
+train: images/train
+val: images/val
+nc: 12
+names:
+  0: wc
+  1: basin
+  2: shower
+  3: bathtub
+  4: kitchen sink
+  5: washing machine
+  6: wardrobe
+  7: ac indoor
+  8: ac outdoor
+  9: radiator
+  10: underfloor restricted zone
+  11: floor drain
